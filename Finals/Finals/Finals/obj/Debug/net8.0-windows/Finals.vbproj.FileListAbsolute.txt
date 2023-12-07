@@ -1,0 +1,16 @@
+C:\Users\Windows 10\OneDrive\Desktop\Finals\Finals\Finals\bin\Debug\net8.0-windows\Finals.exe
+C:\Users\Windows 10\OneDrive\Desktop\Finals\Finals\Finals\bin\Debug\net8.0-windows\Finals.deps.json
+C:\Users\Windows 10\OneDrive\Desktop\Finals\Finals\Finals\bin\Debug\net8.0-windows\Finals.runtimeconfig.json
+C:\Users\Windows 10\OneDrive\Desktop\Finals\Finals\Finals\bin\Debug\net8.0-windows\Finals.dll
+C:\Users\Windows 10\OneDrive\Desktop\Finals\Finals\Finals\bin\Debug\net8.0-windows\Finals.pdb
+C:\Users\Windows 10\OneDrive\Desktop\Finals\Finals\Finals\obj\Debug\net8.0-windows\Finals.Form1.resources
+C:\Users\Windows 10\OneDrive\Desktop\Finals\Finals\Finals\obj\Debug\net8.0-windows\Finals.vbproj.GenerateResource.cache
+C:\Users\Windows 10\OneDrive\Desktop\Finals\Finals\Finals\obj\Debug\net8.0-windows\Finals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\OneDrive\Desktop\Finals\Finals\Finals\obj\Debug\net8.0-windows\Finals.AssemblyInfoInputs.cache
+C:\Users\Windows 10\OneDrive\Desktop\Finals\Finals\Finals\obj\Debug\net8.0-windows\Finals.AssemblyInfo.vb
+C:\Users\Windows 10\OneDrive\Desktop\Finals\Finals\Finals\obj\Debug\net8.0-windows\Finals.vbproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Desktop\Finals\Finals\Finals\obj\Debug\net8.0-windows\Finals.dll
+C:\Users\Windows 10\OneDrive\Desktop\Finals\Finals\Finals\obj\Debug\net8.0-windows\refint\Finals.dll
+C:\Users\Windows 10\OneDrive\Desktop\Finals\Finals\Finals\obj\Debug\net8.0-windows\Finals.pdb
+C:\Users\Windows 10\OneDrive\Desktop\Finals\Finals\Finals\obj\Debug\net8.0-windows\Finals.genruntimeconfig.cache
+C:\Users\Windows 10\OneDrive\Desktop\Finals\Finals\Finals\obj\Debug\net8.0-windows\ref\Finals.dll

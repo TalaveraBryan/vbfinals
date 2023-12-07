@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ScE4/Uj4DyZEJDZuGl7P4+0zVfsGL8HGD0rGOqeWX3HkcRhFO1iMaKJw3q4HrPcXH0kKnDUXPU16ol+t52MQvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Windows 10\\OneDrive\\Desktop\\Finals\\Finals\\Finals\\Finals.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
